@@ -1,0 +1,22 @@
+{
+  "name": "nudge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuartjdouglas/Nudge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stuartjdouglas/Nudge/issues"
+  },
+  "homepage": "https://github.com/stuartjdouglas/Nudge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

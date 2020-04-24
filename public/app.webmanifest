@@ -1,0 +1,16 @@
+{
+    "name": "Nudge app",
+    "short_name": "Nudge",
+    "description": "Remind those your there",
+    "icons": [
+        {
+            "src": "/logo.gif",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "scope": "/",
+    "display": "standalone",
+    "theme_color": "#764ABC",
+    "background_color": "#764ABC"
+}
