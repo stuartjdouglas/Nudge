@@ -1,4 +1,4 @@
 {
-    "httpPort": 80,
+    "httpPort": 8080,
     "httpsPort": 443
 }
